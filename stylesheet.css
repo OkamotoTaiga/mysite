@@ -54,7 +54,7 @@ header{
 }
 .maina{
   width:100%;
-  background-image:url(https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/practice/backgrounds/top.jpg);
+  background-image:url(./image/keyaki.jpg);
   background-size:cover;
   text-align:center;
 }
